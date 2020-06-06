@@ -8,5 +8,5 @@ A light-weight, good-looking theme for Typecho.
 
 ### License
 
-[MIT License](https://github.com/Yolo913/typecho-theme-book/LICENSE)
+[MIT License](https://github.com/Yolo913/typecho-theme-book/blob/master/LICENSE)
 
