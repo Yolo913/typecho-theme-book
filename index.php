@@ -1,11 +1,11 @@
 <?php
 /**
- * 你愿意，等我回来吗？
+ * just for you
  * 
- * @package Typecho Theme Ringo
- * @author memset0, abc1763613206
- * @version 0.2.4
- * @link https://github.com/memset0/typecho-theme-ringo
+ * @package Typecho Theme Book
+ * @author Yolo913
+ * @version 1.0.1
+ * @link https://github.com/Yolo913/typecho-theme-book
  */
 
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;

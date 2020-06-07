@@ -12,5 +12,5 @@
             </form>
         </div>
 
-    </div><!-- end #content-->
+    </div>
 	<?php $this->need('footer.php'); ?>
