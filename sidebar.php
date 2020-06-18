@@ -13,11 +13,8 @@
 
 	<section class="widget sidebar-foot">
         <ul class="widget-list">
-<!--
-            <li>Theme <a rel="nofollow" target="_blank" href="https://github.com/memset0/typecho-theme-ringo">Ringo</a> by <a  target="_blank" href="https://memset0.cn">memset0</a></li>
+            <li>Theme <a rel="nofollow" target="_blank" href="https://github.com/Yolo913/typecho-theme-book">Book</a> by <a  target="_blank" href="http://www.liuyl.xyz/">Yolo</a></li>
             <li>Proudly powered by <a rel="nofollow" target="_blank" href="http://www.typecho.org">Typecho</a></li>
--->
-<li>Powered By <a rel="nofollow" target="_blank" href="https://wordpress.org/">Wordpress</a></li>
         </ul>
     </section>
 </div><!--end #sidebar -->
