@@ -6,6 +6,12 @@
 
 A light-weight, good-looking theme for Typecho.
 
+### 下载 / Download
+
+[点击](https://github.com/yongleliu/typecho-theme-book/archive/master.zip)以下载。
+
+[Click](https://github.com/yongleliu/typecho-theme-book/archive/master.zip) to download.
+
 ### 演示 / Demo
 
 您可以前往 <http://liuyl.xyz> 查看演示。
