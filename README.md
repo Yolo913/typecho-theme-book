@@ -18,6 +18,12 @@ A light-weight, good-looking theme for Typecho.
 
 You can go to <http://liuyl.xyz> to see the demo.
 
+### 提出建议 / Make suggestions
+
+请开[issue](https://github.com/yongleliu/typecho-theme-book/issues/new)，任何人都被欢迎向作者提出建议。
+
+Please open an [issue](https://github.com/yongleliu/typecho-theme-book/issues/new), Anyone is welcome to advise the developer.
+
 ### 开源证书 / License
 
 采用 [MIT License](https://github.com/yongleliu/typecho-theme-book/blob/master/LICENSE)。
